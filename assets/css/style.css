@@ -1829,3 +1829,8 @@ Icon for all respective meta
     font-size: 18px;
     font-weight: 500;
 }
+
+.carousel-indicators li {
+    border: 1px solid #000;
+    background-color: #000;
+}
